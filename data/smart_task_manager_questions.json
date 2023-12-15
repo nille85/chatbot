@@ -1,0 +1,52 @@
+[
+    {
+      "question": "How can I create a new task?",
+      "answer": "To create a new task, click on the 'New Task' button and fill in the required details such as title, description, and due date.",
+      "category": "Task Management"
+    },
+    {
+      "question": "Is it possible to set reminders for my tasks?",
+      "answer": "Yes, you can set reminders for your tasks. When creating or editing a task, simply specify the reminder date and time.",
+      "category": "Reminders"
+    },
+    {
+      "question": "How do I collaborate on a task with my team?",
+      "answer": "To collaborate on a task, add team members to the task and use the comments section to communicate. You can also attach files for better collaboration.",
+      "category": "Collaboration"
+    },
+    {
+      "question": "Can I categorize tasks into different projects?",
+      "answer": "Absolutely! When creating a task, you can assign it to a specific category or project. This helps in organizing tasks more effectively.",
+      "category": "Task Organization"
+    },
+    {
+      "question": "What is the priority feature for?",
+      "answer": "The priority feature allows you to mark the importance of a task. You can set priorities as high, medium, or low to help you focus on the most critical tasks first.",
+      "category": "Task Prioritization"
+    },
+    {
+      "question": "How can I receive notifications on my mobile device?",
+      "answer": "Ensure that notifications are enabled in your app settings. You'll receive real-time notifications for task updates and upcoming deadlines on your mobile device.",
+      "category": "Notifications"
+    },
+    {
+      "question": "Is there a way to view completed tasks?",
+      "answer": "Certainly! You can view completed tasks by accessing the 'Completed Tasks' section. It provides a history of tasks that have been marked as completed.",
+      "category": "Task History"
+    },
+    {
+      "question": "What happens if I miss a task deadline?",
+      "answer": "If you miss a task deadline, the task will be marked as overdue. SmartTask Manager will provide suggestions on how to reschedule or prioritize the overdue task.",
+      "category": "Missed Deadlines"
+    },
+    {
+      "question": "Can I export my task data for reporting purposes?",
+      "answer": "Yes, you can export your task data. Navigate to the 'Export' section, where you can generate reports in various formats, including CSV and PDF.",
+      "category": "Data Export"
+    },
+    {
+      "question": "How secure is my task data?",
+      "answer": "We prioritize the security of your data. SmartTask Manager uses industry-standard encryption and security measures to ensure the confidentiality and integrity of your task information.",
+      "category": "Security"
+    }
+  ]

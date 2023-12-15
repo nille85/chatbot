@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How do I place an order for hardware?",
+        "answer": "To place an order, go to our website, log in, browse the catalog, and add the desired hardware to your cart. Follow the checkout process to complete your order."
+    },
+    {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept credit cards, PayPal, and other common payment methods. You can select your preferred option during the checkout process."
+    },
+    {
+        "question": "Can I track my order?",
+        "answer": "Yes, you can track your order by logging into your account and checking the order status. We also send email notifications with tracking information once your order is shipped."
+    },
+    {
+        "question": "How can I return a product?",
+        "answer": "If you need to return a product, please contact our customer support within 30 days of receiving your order. We'll provide instructions on how to return the item and process your refund or replacement."
+    },
+    {
+        "question": "What is your warranty policy?",
+        "answer": "Our hardware comes with a standard one-year warranty. If you encounter any issues within this period, contact our support team for assistance."
+    }
+]
