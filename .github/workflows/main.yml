@@ -36,15 +36,17 @@ jobs:
       
   security:
     runs-on: ubuntu-latest
+    
     needs: test
+    steps: 
       - name: Secret Detection
-      uses: actions/scan@latest
-      with:
-        type: secret
-
-    - name: Container Scanning
-      uses: aquasecurity/trivy-action@v0.14.0
-      with:
-        image-ref: chatbot:latest  # Change this to your actual image reference
-        vuln-type: os,library
+        uses: actions/scan@latest
+        with:
+          type: secret
+          
+      - name: Container Scanning
+        uses: aquasecurity/trivy-action@v0.16.0
+        with:
+          image-ref: chatbot:latest  # Change this to your actual image reference
+          vuln-type: os,library
   
