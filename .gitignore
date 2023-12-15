@@ -1,4 +1,4 @@
-*.toml
+*config.toml
 chatbot
 
 # Byte-compiled / optimized / DLL files

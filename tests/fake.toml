@@ -1,0 +1,15 @@
+
+[mongodb]
+host = "fake"
+port = "20"
+username = "user"
+password = "pass"
+database_name = "customerSupport"
+collection_name = "questions"
+
+[ollama]
+url = "http://fake.com:2"
+
+[qdrant]
+url = "http://fake.com:3"
+sentence_transformer_model = "sentence-transformers/all-mpnet-base-v2"

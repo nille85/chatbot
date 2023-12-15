@@ -5,7 +5,7 @@ from config.config import ConfigLoader
 class IntegrationTestConfigLoader(unittest.TestCase):
     def test_load_from_file(self):
         # Define the path to your real configuration file
-        real_config_file_path = "tests/fake_config.toml"
+        real_config_file_path = "tests/fake.toml"
 
         # Use the actual ConfigLoader class to load the configuration
         loaded_config = ConfigLoader.load_from_file(tomlkit, real_config_file_path)
